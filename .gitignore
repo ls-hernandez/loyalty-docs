@@ -1,0 +1,7 @@
+# Este repo solo versiona la documentación del proyecto (docs/) y el CLAUDE.md
+# raíz. Todo lo demás del monorepo local (apps, backend, compose) se ignora.
+/*
+!/.gitignore
+!/README.md
+!/CLAUDE.md
+!/docs/
